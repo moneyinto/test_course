@@ -14,5 +14,15 @@
         "name": "index.html",
         "path": "/angular part-one template/"
     },
+    "files": [
+        {
+            "name": "choose_person.html",
+            "path": "/angular part-one template/views/"
+        },
+        {
+            "name": "order_details.html",
+            "path": "/angular part-one template/views/"
+        }
+    ],
     "order": 0
 }
